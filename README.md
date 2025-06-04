@@ -1,6 +1,7 @@
-⚙ Calliope Lovelace ⚙
-📍 Brazil
-✏ HS Senior
-💾 
-
-![](https://dcbadge.limes.pink/api/shield/542160345456967720)
+## **♊ calliope lovelace ♊**
+🟢     skills     🟢
+![Skills](https://skillicons.dev/icons?i=blender,python,godot,lua,html,css)
+##
+🟡     learning     🟡
+![Learning](https://skillicons.dev/icons?i=cpp,git,js,rust)
+##
